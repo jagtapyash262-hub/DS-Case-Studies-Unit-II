@@ -1,0 +1,15 @@
+
+SOCIAL NETWORK ADJACENCY MATRIX
+
+Users: Sneha, Yash, Priya, Rahul, Amit
+
+Adjacency Matrix:
+        Sneha   Yash  Priya  Rahul   Amit
+ Sneha      0      1      1      0      0
+   Yash      1      0      0      1      0
+  Priya      1      0      0      0      1
+  Rahul      0      1      0      0      1
+   Amit      0      0      1      1      0
+
+Are Sneha and Yash friends?
+Yes, they are friends.
